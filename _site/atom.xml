@@ -4,13 +4,30 @@
  <title>BakFoo Blog</title>
  <link href="http://bakfoo.github.io/" rel="self"/>
  <link href="http://bakfoo.github.io"/>
- <updated>2014-03-26T15:46:47+09:00</updated>
+ <updated>2014-03-26T22:53:32+09:00</updated>
  <id>http://bakfoo.github.io</id>
  <author>
    <name>Bakfoo</name>
    <email>info@bakfoo.com</email>
  </author>
 
+ 
+ <entry>
+   <title>テスト</title>
+   <link href="http://bakfoo.github.io/techlog/2014/03/26/test"/>
+   <updated>2014-03-26T00:00:00+09:00</updated>
+   <id>http://bakfoo.github.io/techlog/2014/03/26/test</id>
+   <content type="html">&lt;h2 id=&quot;pyzmq&quot;&gt;pyzmqを最新版に&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;pipが古い場合&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;
+$ wget https://raw.github.com/pypa/pip/master/contrib/get-pip.py sudo python26 get-pip.py
+$ sudo yum remove zeromq.x86_64
+&lt;/code&gt;&lt;/pre&gt;</content>
+ </entry>
  
  
 </feed>

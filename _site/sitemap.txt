@@ -7,3 +7,5 @@ http://bakfoo.github.io/pages.html
 http://bakfoo.github.io/rss.xml
 http://bakfoo.github.io/sitemap.txt
 http://bakfoo.github.io/tags.html
+
+http://bakfoo.github.io/techlog/2014/03/26/test
