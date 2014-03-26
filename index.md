@@ -1,10 +1,8 @@
 ---
 layout: page
-title: BakFoo Tech Logs
+title: Recent Posts
 ---
 {% include JB/setup %}
-
-## Recent Posts
 
 <ul class="posts">
   {% for post in site.posts %}
