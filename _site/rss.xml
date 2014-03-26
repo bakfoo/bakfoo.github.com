@@ -5,8 +5,8 @@
         <description>BakFoo Blog - Bakfoo</description>
         <link>http://bakfoo.github.io</link>
         <link>http://bakfoo.github.io</link>
-        <lastBuildDate>2014-03-26T22:53:32+09:00</lastBuildDate>
-        <pubDate>2014-03-26T22:53:32+09:00</pubDate>
+        <lastBuildDate>2014-03-26T23:22:53+09:00</lastBuildDate>
+        <pubDate>2014-03-26T23:22:53+09:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -19,9 +19,17 @@
 &lt;/ul&gt;
 
 &lt;pre&gt;&lt;code&gt;
-$ wget https://raw.github.com/pypa/pip/master/contrib/get-pip.py sudo python26 get-pip.py
+$ wget https://raw.github.com/pypa/pip/master/contrib/get-pip.py 
+$ sudo python26 get-pip.py
 $ sudo yum remove zeromq.x86_64
-&lt;/code&gt;&lt;/pre&gt;</description>
+$$a^2 + b^2 = c^2$$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;$$a^2 + b^2 = c^2$$&lt;/p&gt;
+
+&lt;p&gt;random variables $$X_1, X_2, X_3$$ from&lt;/p&gt;
+
+&lt;p&gt;math formular $A=x^2+4x+3$ spearate math formular $$A=x^2+4x+3$$ superscripts: $$2x^{34}$$ ==&amp;gt; x power 34 greek letters: $$\pi$$ $$\alpha$$ $$A=\pi r^2$$ trig functions: $$y=\sin{x}$$ log functions: $$\log_5{x}$$ $\ln{x}$&lt;/p&gt;</description>
                 <link>http://bakfoo.github.io/techlog/2014/03/26/test</link>
                 <guid>http://bakfoo.github.io/techlog/2014/03/26/test</guid>
                 <pubDate>2014-03-26T00:00:00+09:00</pubDate>
