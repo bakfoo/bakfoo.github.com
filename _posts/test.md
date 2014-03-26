@@ -1,0 +1,16 @@
+--
+layout: post
+title: テスト
+date: 2014-03-26
+category: techlog
+tags: python centos
+--
+
+## pyzmqを最新版に
+- pipが古い場合
+
+```
+$ wget https://raw.github.com/pypa/pip/master/contrib/get-pip.py sudo python26 get-pip.py
+$ sudo yum remove zeromq.x86_64
+```
+
